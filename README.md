@@ -57,6 +57,12 @@ To compile the project and create a single jar file with all dependencies:
 
 
 
+# Run your application
+Inside your shell with Hadoop
+
+hadoop jar your-hadoop-application.jar arg0 arg1 ...
+
+
 
 ## Create a single JAR File from eclipse
 
