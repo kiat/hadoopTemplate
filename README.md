@@ -44,12 +44,10 @@ Specify your own Output directory like
 
 # Running:
 
-```WordCount Book-Tiny.txt  OUTPUT.txt```
 
 
 
-
-# Create a JAR Using Maven 
+## Create a JAR Using Maven 
 
 To compile the project and create a single jar file with all dependencies: 
 	
@@ -57,10 +55,10 @@ To compile the project and create a single jar file with all dependencies:
 
 
 
-# Run your application
+## Run your application
 Inside your shell with Hadoop
 
-```hadoop jar your-hadoop-application.jar arg0 arg1 ... ```
+```hadoop jar your-hadoop-application.jar edu.cs.utexas.HadoopEx.WordCount arg0 arg1 ... ```
 
 
 
