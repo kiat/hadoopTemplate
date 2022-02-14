@@ -53,14 +53,14 @@ Specify your own Output directory like
 
 To compile the project and create a single jar file with all dependencies: 
 	
-	mvn clean package 
+```	mvn clean package ```
 
 
 
 # Run your application
 Inside your shell with Hadoop
 
-hadoop jar your-hadoop-application.jar arg0 arg1 ...
+```hadoop jar your-hadoop-application.jar arg0 arg1 ... ```
 
 
 
