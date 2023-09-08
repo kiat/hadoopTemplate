@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<name>Hadoop MapReduce</name>
 	<description>A Hadoop MapReduce example </description>
-	<groupId>edu.bu.metcs.HadoopEx</groupId>
+	<groupId>edu.cs.utexas.HadoopEx</groupId>
 	<artifactId>MapReduce-WordCount-example</artifactId>
 	<version>0.1-SNAPSHOT</version>
 
